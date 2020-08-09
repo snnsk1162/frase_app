@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class AddPage extends StatelessWidget {
   String Genre = "日常";
-  String Score = "3";
+  String Score = "35";
   String NewFrase;
   String NewMemo;
 
